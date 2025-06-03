@@ -13,7 +13,7 @@
     'use strict';
 
     const config = {
-        bubbleIcon: 'https://images7.alphacoders.com/137/1374443.png ',
+        bubbleIcon: 'https://cdn-icons-png.flaticon.com/512/1995/1995485.png',
         autoBtnText: 'Auto Mua Máy Trial 4h',
         themeColor: '#4a6bdf',
         secondaryColor: '#f0f2f5'
